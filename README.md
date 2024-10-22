@@ -12,6 +12,6 @@
 ## 🌟 Projetos em Destaque:
 - [Portfólio Pessoal](https://maiarasc.com)
 
-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=seuusuario&theme=onedark)
+
 
 
