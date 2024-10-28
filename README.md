@@ -6,8 +6,8 @@
 🌐 Desenvolvedora Frontend | Apaixonada por criar interfaces bonitas e funcionais.
 
 ## 🚀 Tecnologias que utilizo:
-- HTML | CSS | JavaScript | React
-- Git | GitHub | Figma
+- HTML | CSS | JavaScript 
+- Git | GitHub | Figma | Canva
 
 ## 🌟 Projetos em Destaque:
 - [Portfólio Pessoal](https://maiarasc.com)
