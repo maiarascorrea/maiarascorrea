@@ -10,7 +10,7 @@
 - Git | GitHub | Figma | Canva
 
 ## 🌟 Projetos em Destaque:
-- [Portfólio Pessoal](https://maiarasc.com)
+- [Calculadora](https://github.com/maiarascorrea/calculator)
 
 
 
